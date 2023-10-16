@@ -44,9 +44,6 @@
 
 </td></tr>
 
-<tr>
-<td>
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
