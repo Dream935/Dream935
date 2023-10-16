@@ -48,8 +48,6 @@
 <div align="center">
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-</div>
-
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -98,7 +96,7 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/hr.gif" />
-
+</div>
 <div align="center">
 
 <!-- run 图片 -->
