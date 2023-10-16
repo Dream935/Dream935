@@ -5,5 +5,11 @@
         </a>
       </div>
 <img src="img/敲代码.gif">
+    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dream935/Dream935/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Dream935/Dream935/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
