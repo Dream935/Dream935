@@ -108,6 +108,6 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dream935&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/right.png" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/right.png" />
 
 </div>
