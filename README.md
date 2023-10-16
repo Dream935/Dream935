@@ -24,6 +24,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Dream935/Dream935/profile-snake-contrib/github-contribution-grid-snake.svg" />
       <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture><br>
+
 </div>
 
 #  🙋 Hello
@@ -43,7 +44,7 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
-
+</table>
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
