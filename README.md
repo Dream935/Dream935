@@ -4,7 +4,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小邹同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
         </a>
       </div>
-<img src="img/敲代码.gif"><br>
+<img src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/coding.gif"><br>
 
 <div align="center">
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -34,7 +34,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是小邹同学。</p>
 <p>&emsp;&emsp;热爱编程、看剧、读书、旅行。</p>
