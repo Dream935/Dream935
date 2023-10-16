@@ -115,5 +115,5 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/cxyduck.gif" />
 <img src="https://github.com/Dream935/Dream935/blob/main/github-metrics/base.svg" />
 <img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935//assets/images/cxyduck.gif" />
-https://github.com/Dream935/Dream935/blob/main/github-metrics/base.svg
+
 </div>
