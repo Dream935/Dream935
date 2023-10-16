@@ -112,7 +112,7 @@
 
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935/assets/images/cxyduck.gif" />
 
 <img width="150" src="https://cdn.jsdelivr.net/gh/Dream935/Dream935//assets/images/cxyduck.gif" />
 
