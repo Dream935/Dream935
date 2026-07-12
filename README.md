@@ -10,7 +10,7 @@
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://raw.githubusercontent.com/Dream935/Dream935/main/assets/images/微信图片_20260712201614_180_29.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://dreamxingchen.asia/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
